@@ -1,0 +1,24 @@
+{
+  "userDetails": [
+    {
+      "title": "Satya",
+      "status": true,
+      "id": 1
+    },
+    {
+      "title": "brata",
+      "status": true,
+      "id": 2
+    },
+    {
+      "title": "Das",
+      "status": true,
+      "id": 3
+    },
+    {
+      "title": "learn react",
+      "status": true,
+      "id": 4
+    }
+  ]
+}
